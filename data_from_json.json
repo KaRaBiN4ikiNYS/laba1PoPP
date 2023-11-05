@@ -1,0 +1,26 @@
+{
+    "product": [
+        {
+            "name": "macbook",
+            "price": 3000,
+            "weight": "10 kg"
+        },
+        {
+            "name": "macbook Pro",
+            "price": 4500,
+            "weight": "8 kg"
+        }
+    ],
+    "service": [
+        {
+            "name": "chistka macbook",
+            "price": 500,
+            "time": "1 h"
+        },
+        {
+            "name": "chistka macbook Pro",
+            "price": 1500,
+            "time": "1.5 h"
+        }
+    ]
+}
